@@ -29,5 +29,11 @@ Tässä tehtävässä asensin micro-nimisen tekstieditorin:
 * "sudo apt-get -y install micro" kommennolla asensin tekstieditorin nimeltä micro
 * Lopuksi tarkistin "micro --version" kommennolla, että tekstieditorin micro asennus varmasti onnistui
 
+### b)Rauta
+
+Seuraavaksi asensin lshw(list hardware)työkalun:
+
+
+
 
 
