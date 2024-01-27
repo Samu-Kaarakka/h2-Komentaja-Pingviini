@@ -37,6 +37,8 @@ Seuraavaksi asensin lshw(hardware lister)työkalun:
 
 Tämän jälkeen käytin ‘sudo lshw -short -sanitize’ komentoa näyttämään listan laitteen tiedoista:
 
+![Add file: Upload](sanitize.png)
+
 
 
 
