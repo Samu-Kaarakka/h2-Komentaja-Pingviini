@@ -21,5 +21,9 @@ Karvinen, Tero. Command Line Basics Revisited. Julkaistu 02.03.2020. Luettu 27.0
 
 ### a)Micron asentaminen
 
+Tässä tehtävässä asensin micro-nimisen tekstieditorin:
+
+![Add file: Upload](Mikro.jpg)
+
 
 
