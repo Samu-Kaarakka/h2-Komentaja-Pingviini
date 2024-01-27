@@ -31,7 +31,15 @@ Tässä tehtävässä asensin micro-nimisen tekstieditorin:
 
 ### b)Rauta
 
-Seuraavaksi asensin lshw(list hardware)työkalun:
+Seuraavaksi asensin lshw(hardware lister)työkalun:
+
+![Add file: Upload](lshw.png)
+
+Tämän jälkeen käytin ‘sudo lshw -short -sanitize’ komentoa näyttämään listan laitteen tiedoista:
+
+
+
+
 
 
 
