@@ -1,5 +1,7 @@
 # h2 Komentaja Pingviini
+
 ## x) Lue ja tiivistä
+
 ### Commmand line basics revisited
 Komentorivi on työkalu, joka mahdollistaa esimerkiksi ohjelmien asentamisen/pyörittämisen, tiedostojen hallinnan sekä koneen yleisen hallinnan nopeasti sekä kivuttomasti. Komentotulkin avulla käyttäjän komentoriville syöttämät käskyt saadaan sellaiseen muotoon, jotta tietokone ymmärtää ja osaa toteuttaa kyseiset käskyt. 
 Komentorivillä pystyy käyttämään monia komentoja, jotka helpottavat työskentelyä. Ohessa listattuna tärkeitä peruskomentoja:
@@ -16,5 +18,8 @@ Koko järjestelmää koskevat toiminnot (esimerkiksi ohjelmistojen asentaminen/p
 
 Lähde:
 Karvinen, Tero. Command Line Basics Revisited. Julkaistu 02.03.2020. Luettu 27.01.2024. https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited 
+
+### a)Micron asentaminen
+
 
 
