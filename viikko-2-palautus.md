@@ -39,6 +39,23 @@ Tämän jälkeen käytin ‘sudo lshw -short -sanitize’ komentoa näyttämää
 
 ![Add file: Upload](sanitize.png)
 
+Alla avaan hieman kuvan tulosteita sekä mitä ne tarkoittavat: 
+
+#### H/W path:
+* Viittaa laitteiston polkuun, joka esittää hierarkisen rakenteen laitteen eri komponenteista
+* Kertoo laitteen sijannin laitteistorakenteessa
+* Esimerkiksi kohta /0/1 viittaa kuvan tapauksessa muistiyksikköön (Class: Memory), jossa Description kohdassa näkyy, että RAM-muistia on 4gigatavua
+
+#### Device:
+* Laite,joka on liitetty järjestelmään
+
+#### Class:
+* Laitteen luokka/tyyppi
+
+#### Description:
+* Kuvaus laitteesta
+
+
 
 
 
