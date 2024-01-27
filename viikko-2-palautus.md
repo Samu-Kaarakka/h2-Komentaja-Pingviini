@@ -23,7 +23,11 @@ Karvinen, Tero. Command Line Basics Revisited. Julkaistu 02.03.2020. Luettu 27.0
 
 Tässä tehtävässä asensin micro-nimisen tekstieditorin:
 
-![Add file: Upload](Mikro.jpg)
+![Add file: Upload](Mikro.png)
+
+* "sudo apt-get update" kommennolla varmistin alkuun, että kaikki paketit ovat ajantasalla.
+* "sudo apt-get -y install micro" kommennolla asensin tekstieditorin nimeltä micro
+* Lopuksi tarkistin "micro --version" kommennolla, että tekstieditorin micro asennus varmasti onnistui
 
 
 
