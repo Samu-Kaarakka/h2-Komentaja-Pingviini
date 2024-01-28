@@ -143,6 +143,9 @@ Toisessa esimerkissä etsin komennolla "grep "muumi" ~/ -r" kotihakemistostani. 
 
 ![Add file: Upload](pipes.png)
 
+### g) Tukki
+
+
 
 
 
