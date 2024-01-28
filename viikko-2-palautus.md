@@ -90,7 +90,15 @@ Valitsin tärkeäksi esimerkkikohdaksi listalta kohdan apt-get:
 
 ![Add file: Upload](apt-get.png)
 
+##### Kotihakemisto (/home/):
+* Sisältää kaikkien käyttäjien kotihakemistot
 
+Kommennolla "ls /home" tulostin kotihakemistot: 
+
+![Add file: Upload](neofetch.png)
+
+##### Käyttäjän kotihakemisto (/home/samuk/):
+* Ainoa paikka missä kyseinen käyttäjä (tässä tapauksessa samuk voi tallentaa tietojaan pysyvästi)
 
 
 
