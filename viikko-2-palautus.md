@@ -108,8 +108,13 @@ Kommennolla "ls /home/samuk" tulostin oman käyttäjäni kotihakemistossa olevat
 *Sisältää konfiguraatiotiedostot koko järjestelmänlaajuisille asetuksille
 Kommennolla "ls /etc" tulostin tiedostot ja esimerkkitiedostoksi tulostin hostname kansion(näyttää koneeni nimen) kommennolla "cat /etc/hostname". 
 
+![Add file: Upload](etc.png)
 
-Tähän katsoin verkosta ohjeen miten tulostaa tiedoston sisältö suoraan terminaalin käyttäen cat-komentoa
+Tähän katsoin verkosta ohjeen miten tulostaa valitun tiedoston sisältö suoraan terminaalin käyttäen cat-komentoa.
+
+##### Irrotettava media (/media/):
+*Sisältää irrotettavan median esim. CD-levyt tai USB-tikut
+
 
 
 
