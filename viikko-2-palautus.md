@@ -124,6 +124,8 @@ Yritin "ls /media"-kommennolla tulostaa hakemiston sisällön, mutta se tulosti 
 
 Kommenolla "sudo journalctl" tulostin järjestelmän lokitiedot (kuvassa näkyy vain osa, koska tiedostoja oli hyvin paljon):
 
+![Add file: Upload](loki.png)
+
 
 
 
