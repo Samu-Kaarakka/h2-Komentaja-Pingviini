@@ -139,7 +139,9 @@ Toisessa esimerkissä etsin komennolla "grep "muumi" ~/ -r" kotihakemistostani. 
 ![Add file: Upload](grep-1.png)
 
 ### f) Pipes
+*Pystyviiva mahdollistaa kahden tai useamman komennon yhdistämisen. Käytin komentoa "ls | wc-l" tulostaakseni hakemistossa olevien tiedostojen määrän: 
 
+![Add file: Upload](pipes.png)
 
 
 
