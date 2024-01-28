@@ -134,11 +134,11 @@ Ensimmäisessä esimerkissä tein komennolla "cat > testi_tiedosto.txt" uuden te
 
 ![Add file: Upload](grep.png)
 
-Toisessa esimerkissä etsin komennolla "grep "muumi" ~/ -r" kotihakemistostani. Kirjain -r viittaa rekursiiviseen hakuun eli haku ei rajoitu pelkästään nykyiseen hakemistoon vaan se kattaa myös alihakemistot: 
+Toisessa esimerkissä etsin komennolla "grep "muumi" ~/ -r" kotihakemistostani. Kirjain -r viittaa rekursiiviseen hakuun eli haku ei rajoitu pelkästään nykyiseen hakemistoon vaan se kattaa myös alihakemistot. Komento tulosti sanan "muumi" sisältämät tiedostot: 
 
 ![Add file: Upload](grep-1.png)
 
-
+### f) Pipes
 
 
 
