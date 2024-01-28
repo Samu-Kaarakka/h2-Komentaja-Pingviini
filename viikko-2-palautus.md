@@ -122,6 +122,8 @@ Yritin "ls /media"-kommennolla tulostaa hakemiston sisällön, mutta se tulosti 
 ##### Järjestelmälokit (/var/log/):
 *Sisältää järjestelmän lokitiedostoja
 
+Kommenolla "sudo journalctl" tulostin järjestelmän lokitiedot (kuvassa näkyy vain osa, koska tiedostoja oli hyvin paljon):
+
 
 
 
