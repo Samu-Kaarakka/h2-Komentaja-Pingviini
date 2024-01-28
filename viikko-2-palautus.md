@@ -73,7 +73,7 @@ Tämän jälkeen kokeilin, että mitä kukin ohjelma tekee:
 ![Add file: Upload](htop.png)
 
 #### Neofetch
-*Näyttää tietoja tietokoneesta sekä järjestelmästä, esimerkiksi käyttöjärjestelmän nimen, asennettujen pakettien määrän sekä muistin määrän:
+*Näyttää tietoja tietokoneesta sekä järjestelmästä, esimerkiksi käyttöjärjestelmän nimen, asennettujen pakettien määrän sekä RAM-muistin määrän:
 
 ![Add file: Upload](neofetch.png)
 
