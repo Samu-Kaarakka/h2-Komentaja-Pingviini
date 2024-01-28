@@ -62,7 +62,20 @@ Tässä tehtävässä asensin apt-työkalua käyttäen 3 uutta komentoriviohjelm
 
 Tämän jälkeen kokeilin, että mitä kukin ohjelma tekee:
 
-Ranger on tekstipohjainen ohjelma, jonka avulla on kätevää selata, hallita ja katsella tiedostoja sekä hakemistoja terminaalissa:
+#### Ranger 
+*Tekstipohjainen ohjelma, jonka avulla on kätevää selata, hallita ja katsella tiedostoja sekä hakemistoja terminaalissa:
+
+![Add file: Upload](ranger.png)
+
+#### Htop
+*Näyttää näkymän käynnissä olevista prosesseista sekä niiden resurssien käytöstä:
+
+![Add file: Upload](htop.png)
+
+#### Neofetch
+*Näyttää tietoja tietokoneesta sekä järjestelmästä, esimerkiksi käyttöjärjestelmän nimen, asennettujen pakettien määrän sekä muistin määrän:
+
+![Add file: Upload](neofetch.png)
 
 
 
