@@ -77,7 +77,7 @@ Tämän jälkeen kokeilin, että mitä kukin ohjelma tekee:
 
 ![Add file: Upload](neofetch.png)
 
-#### d)FHS (Filesystem Hierarchy Standard)
+### d)FHS (Filesystem Hierarchy Standard)
 
 ##### Juurihakemisto (/):
 * Sisältää kaikki muut tiedostot ja hakemistot
@@ -125,6 +125,14 @@ Yritin "ls /media"-kommennolla tulostaa hakemiston sisällön, mutta se tulosti 
 Kommenolla "sudo journalctl" tulostin järjestelmän lokitiedot (kuvassa näkyy vain osa, koska tiedostoja oli hyvin paljon):
 
 ![Add file: Upload](loki.png)
+
+### e) The Friendly M
+
+*Grep on työkalu, jonka avulla voi etsiä tekstimuotoisia merkkijonoja tiedostoista tai syötteestä.
+
+Ensimmäisessä esimerkissä tein komennolla "cat > testi_tiedosto.txt" uuden tekstitiedoston nimeltä testi_tiedosto, jonne kirjotin sisään tekstiä. Tämän jälkeen kommennolla "grep "esimerkki" testi_tiedosto.txt" etsin ja tulostin tiedostosta rivit, jotka sisälsi sanan "esimerkki":
+
+
 
 
 
