@@ -77,6 +77,18 @@ Tämän jälkeen kokeilin, että mitä kukin ohjelma tekee:
 
 ![Add file: Upload](neofetch.png)
 
+#### d)FHS (Filesystem Hierarchy Standard)
+
+##### Juurihakemisto (/):
+* Sisältää kaikki muut tiedostot ja hakemistot
+
+Kommennolla "ls /" tulostin juuritason hakemiston sisällön. Tämän jälkeen "cd /usr" kommennolla siirryin usr-hakemistoon. "ls"- komennolla tulostin usr-hakemiston sisällön, jonka jälkeen siirryin "cd /bin"-kommennolla bin kansion sisältöön. Eli lopputilanteessa olin hakemistossa /usr/bin, tämä hakemisto sisältää käytössä olevat ohjelmat, lista oli todella pitkä:
+
+
+
+
+
+
 
 
 
