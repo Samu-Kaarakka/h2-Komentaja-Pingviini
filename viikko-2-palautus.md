@@ -132,6 +132,7 @@ Kommenolla "sudo journalctl" tulostin järjestelmän lokitiedot (kuvassa näkyy 
 
 Ensimmäisessä esimerkissä tein komennolla "cat > testi_tiedosto.txt" uuden tekstitiedoston nimeltä testi_tiedosto, jonne kirjotin sisään tekstiä. Tämän jälkeen kommennolla "grep "esimerkki" testi_tiedosto.txt" etsin ja tulostin tiedostosta rivit, jotka sisälsi sanan "esimerkki":
 
+![Add file: Upload](grep.png)
 
 
 
