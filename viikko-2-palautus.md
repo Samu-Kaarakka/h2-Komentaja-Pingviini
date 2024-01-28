@@ -56,7 +56,17 @@ Alla avaan hieman kuvan tulosteita sekä mitä ne tarkoittavat:
 * Kuvaus laitteesta
 
 #### C)Apt (advanced package tool)
-Tässä tehtävässä asensin apt-työkalua käyttäen 3 uutta komentoriviohjelmaa . Katsoin verkosta ohjeen, miten kaikki 3 ohjelmaa saa asennettua kerralla:
+Tässä tehtävässä asensin apt-työkalua käyttäen 3 uutta komentoriviohjelmaa (ranger,htop sekä neofetch) . Katsoin verkosta ohjeen, miten kaikki 3 ohjelmaa saa asennettua kerralla:
+
+![Add file: Upload](apt-1.png)
+
+Tämän jälkeen kokeilin, että mitä kukin ohjelma tekee:
+
+Ranger on tekstipohjainen ohjelma, jonka avulla on kätevää selata, hallita ja katsella tiedostoja sekä hakemistoja terminaalissa:
+
+
+
+
 
 
 
