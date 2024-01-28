@@ -82,7 +82,13 @@ Tämän jälkeen kokeilin, että mitä kukin ohjelma tekee:
 ##### Juurihakemisto (/):
 * Sisältää kaikki muut tiedostot ja hakemistot
 
-Kommennolla "ls /" tulostin juuritason hakemiston sisällön. Tämän jälkeen "cd /usr" kommennolla siirryin usr-hakemistoon. "ls"- komennolla tulostin usr-hakemiston sisällön, jonka jälkeen siirryin "cd /bin"-kommennolla bin kansion sisältöön. Eli lopputilanteessa olin hakemistossa /usr/bin, tämä hakemisto sisältää käytössä olevat ohjelmat, lista oli todella pitkä:
+Kommennolla "ls /" tulostin juuritason hakemiston sisällön. Tämän jälkeen "cd /usr" kommennolla siirryin usr-hakemistoon. "ls"- komennolla tulostin usr-hakemiston sisällön, jonka jälkeen siirryin "cd /bin"-kommennolla bin kansion sisältöön. Eli lopputilanteessa olin hakemistossa /usr/bin, tämä hakemisto sisältää käytössä olevat ohjelmat sekä työkalut, lista oli todella pitkä: 
+
+![Add file: Upload](bin.png)
+
+Valitsin tärkeäksi esimerkkikohdaksi listalta kohdan apt-get:
+
+![Add file: Upload](apt-get.png)
 
 
 
