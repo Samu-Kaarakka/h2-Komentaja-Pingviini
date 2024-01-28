@@ -144,6 +144,17 @@ Toisessa esimerkissä etsin komennolla "grep "muumi" ~/ -r" kotihakemistostani. 
 ![Add file: Upload](pipes.png)
 
 ### g) Tukki
+Esimerkki onnistuneesta lokilisäyksestä kohdassa käytin ensiksi " sudo logger" - komentoa lisätäkseni lokiin tekstin "Onnistunut lokiin lisäys". Tämän jälkeen "sudo journalctl | grep" kommennolla etsin ja tulostin tapahtuman lokista: 
+
+![Add file: Upload](tukki.png)
+
+Esimerkki kielletystä toimenpiteestä voisi olla vaikka komento: "sudo rm -rf /". Kyseinen komento yrittäisi poistaa juurikansion. 
+
+### Lähteet:
+* https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/
+* https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+* Karvinen, Tero. Command Line Basics Revisited. Julkaistu 02.03.2020. Luettu 28.01.2024. luettavissa: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+* Karvinen, Tero. Commands for Admin. Julkaistu 02.05.2008. Luettu 28.01.2024. luettavissa: https://terokarvinen.com/2008/commands-for-admin-4/
 
 
 
