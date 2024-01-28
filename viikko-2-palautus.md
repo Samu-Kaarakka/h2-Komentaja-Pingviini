@@ -115,6 +115,11 @@ Tähän katsoin verkosta ohjeen miten tulostaa valitun tiedoston sisältö suora
 ##### Irrotettava media (/media/):
 *Sisältää irrotettavan median esim. CD-levyt tai USB-tikut
 
+Yritin "ls /media"-kommennolla tulostaa hakemiston sisällön, mutta se tulosti vain käyttäjänimeni. Oletan, että tämä johtuu siitä, että hakemisto on tyhjä, mitään irroitettavaa mediaa ei ole:
+
+![Add file: Upload](media.png)
+
+##### Järjestelmälokit (/var/log/):
 
 
 
