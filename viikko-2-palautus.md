@@ -55,6 +55,15 @@ Alla avaan hieman kuvan tulosteita sekä mitä ne tarkoittavat:
 #### Description:
 * Kuvaus laitteesta
 
+#### C)Apt (advanced package tool)
+Tässä tehtävässä asensin apt-työkalua käyttäen 3 uutta komentoriviohjelmaa . Katsoin verkosta ohjeen, miten kaikki 3 ohjelmaa saa asennettua kerralla:
+
+
+
+
+
+
+
 
 
 
