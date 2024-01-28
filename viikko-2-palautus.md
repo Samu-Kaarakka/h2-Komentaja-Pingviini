@@ -120,6 +120,7 @@ Yritin "ls /media"-kommennolla tulostaa hakemiston sisällön, mutta se tulosti 
 ![Add file: Upload](media.png)
 
 ##### Järjestelmälokit (/var/log/):
+*Sisältää järjestelmän lokitiedostoja
 
 
 
