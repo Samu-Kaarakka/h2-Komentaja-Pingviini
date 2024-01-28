@@ -104,6 +104,13 @@ Kommennolla "ls /home/samuk" tulostin oman käyttäjäni kotihakemistossa olevat
 
 ![Add file: Upload](kayttajan-kotihakemisto.png)
 
+##### Järjestelmän laajuiset asetukset (/etc/): 
+*Sisältää konfiguraatiotiedostot koko järjestelmänlaajuisille asetuksille
+Kommennolla "ls /etc" tulostin tiedostot ja esimerkkitiedostoksi tulostin hostname kansion(näyttää koneeni nimen) kommennolla "cat /etc/hostname". 
+
+
+Tähän katsoin verkosta ohjeen miten tulostaa tiedoston sisältö suoraan terminaalin käyttäen cat-komentoa
+
 
 
 
